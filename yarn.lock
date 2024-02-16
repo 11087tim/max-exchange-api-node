@@ -1055,7 +1055,7 @@ bintree@^1.0.0:
 
 bintrees@^1.0.2:
   version "1.0.2"
-  resolved "https://registry.npmjs.org/bintrees/-/bintrees-1.0.2.tgz"
+  resolved "https://registry.yarnpkg.com/bintrees/-/bintrees-1.0.2.tgz#49f896d6e858a4a499df85c38fb399b9aff840f8"
   integrity sha512-VOMgTMwjAaUG580SXn3LacVgjurrbMme7ZZNYGSSV7mmtY6QQRh0Eg3pwIcntQ77DErK1L0NxkbetjcoXzVwKw==
 
 bluebird@^3.7.2:
