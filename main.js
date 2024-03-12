@@ -12,9 +12,9 @@ const ws = new WebSocketAPI({ accessKey: accesskey, secretKey: secretKey
 })
 const book = new WebSocketBook(ws, tradingPair, bookDepth)
 
-book.onUpdate(() => {
-  book.pretty()
-})
+// book.onUpdate(() => {
+//   book.pretty()
+// })
 
 // API on
 ws.on('error', (errors) => {

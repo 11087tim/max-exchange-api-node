@@ -1,6 +1,1 @@
-.env
-/.env.local
-/node_modules
-/config.js
-/record.txt
-/test.js
+./config.js

@@ -43,6 +43,7 @@
     "standard-version": "^9.5.0"
   },
   "dependencies": {
+    "async-mutex": "^0.4.1",
     "bintree": "^1.0.0",
     "bintrees": "^1.0.2",
     "debug": "^3.1.0",
