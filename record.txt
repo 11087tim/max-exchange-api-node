@@ -1,4 +1,4 @@
-Time: 3/12/2024, 9:24:49 PM, maker Vol: 0 , maker rebates:0 | taker Vol: 0 | net profit: 0
+Time: 3/12/2024, 10:07:19 PM, maker Vol: 0 , maker rebates:0 | taker Vol: 0 | net profit: 0
 Time: 2/25/2024, 12:32:06 PM, maker Vol: 3200 , maker rebates:0.256 | taker Vol: 0 | net profit: 0.256
 Time: 2/25/2024, 12:34:06 PM, maker Vol: 7200 , maker rebates:0.576 | taker Vol: 0 | net profit: 0.576
 Time: 2/25/2024, 12:36:06 PM, maker Vol: 11000 , maker rebates:0.88 | taker Vol: 0 | net profit: 0.88
